@@ -1,0 +1,1 @@
+Create project with this comand: npm create vite@latest
